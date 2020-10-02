@@ -1,6 +1,7 @@
 # Website
 
-This repository holds the code for the server running at [azul3d.org](https://azul3d.org).
+This repository holds the code for the server running at [azul3d.org](https://azul3d.org) this website.
+visit now!
 
 Changes accepted into the `master` branch of this repository are automatically served from `azul3d.org`. Just submit a pull request: when your changes are accepted they'll automatically appear on the website shortly thereafter.
 
